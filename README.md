@@ -24,7 +24,7 @@
   
   Nothing
   
-  
+  Demo Video: https://watch.screencastify.com/v/t9ocF97Mo9cEDesrMK8a
   
   
 
@@ -38,3 +38,5 @@
   
   If you have any questions about the repo, open an issue or contact me directly at bourpower@gmail.com. You can find more of my work at [Sbour1](https://github.com/Sbour1/).
   
+  <img src="./images/screenshot2.PNG" alt = "Demo"/>
+  <img src="./images/screenshot.PNG" alt = "Screenshot"/>

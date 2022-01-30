@@ -1,18 +1,16 @@
-# asdf
+# ReadMe Generator
 
   ## Description
   
-  adsf
+  A quality ReadMe generator written using Node.JS, accepting user inputs to create a quality ReadMe file for any coding project.
   
   ## Table of Contents (Optional)
   
-  - [Installation](#installation)
-  - [Usage](#usage)
-  
-* [License](#license)
-
-  - [Contribute](#contributing)
-  - [Questions](#questions)
+  * [Installation](#installation)
+  * [Usage](#usage)
+   
+  * [Contribute](#contributing)
+  * [Questions](#questions)
   
   ## Installation
   
@@ -22,23 +20,21 @@
 
   ## Usage
 
-  asdf
+  n/a
   
-  asdf
+  Nothing
   
-  ![GitHub license](https://img.shields.io/badge/license-BSD3-blue.svg)
   
-  ## License
-    
-    This project is licensed under the BSD3 license.
+  
+  
 
 
   
   ## How to Contribute
   
-  asdf
+  Nothing
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at asdf. You can find more of my work at [asdf](https://github.com/asdf/).
+  If you have any questions about the repo, open an issue or contact me directly at bourpower@gmail.com. You can find more of my work at [Sbour1](https://github.com/Sbour1/).
   

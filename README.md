@@ -10,6 +10,7 @@
   * [Usage](#usage)
    
   * [Contribute](#contributing)
+  * [Testing](#testing)
   * [Questions](#questions)
   
   ## Installation
@@ -32,6 +33,12 @@
   
   ## How to Contribute
   
+  Nothing
+
+  ## Testing
+  
+  To run tests, run the following command:
+
   Nothing
   
   ## Questions

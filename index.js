@@ -35,19 +35,13 @@ const questions = [
         type: "list",
         name: "license",
         message: "What kind of license should your project have?",
-        choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "None"]
+        choices: ["MIT", "APACHE2.0", "GPL3.0", "BSD3", "None"]
       },
       {
         type: "input",
         name: "installation",
         message: "What command should be run to install dependencies?",
         default: "npm i"
-      },
-      {
-        type: "input",
-        name: "test",
-        message: "What command should be run to run tests?",
-        default: "npm test"
       },
       {
         type: "input",
@@ -71,8 +65,7 @@ function init() {
     inquirer.prompt(questions)
     .then((data) => {
         writeToFile('README.md', generateMarkdown(data))
-    }
-    )
+    })
 }
 
 // Function call to initialize app
